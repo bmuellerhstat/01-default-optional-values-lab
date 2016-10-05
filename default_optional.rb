@@ -16,4 +16,4 @@ def student_school(name,school="HSTAT")
     def student_interests_proper(name,i,n,t)
         "#{name.capitalize} is interested in #{i}, #{n}, and #{t}." 
         end 
-    # student_interests_proper("Jun", "getting", "this", "code", "to", "work")
+    # student_interests_proper("Jun", "getting", "this", "code", "to", "work") stop palying
